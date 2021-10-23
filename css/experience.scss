@@ -1,0 +1,125 @@
+.timeline-wrapper{
+    background-color: rgb(248, 217, 210);
+    border-radius: 1em;
+    padding: 1em;
+
+    small {
+        color: rgb(63, 53, 48);
+        margin-left: 1em;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 8px 0px;
+        border-radius: 50px;
+        letter-spacing: 0.2px;
+    }
+
+    h5{
+        font-family: 'Maven Pro', sans-serif;
+        font-size: 1.3em;
+        font-weight: 600;
+    }
+}
+
+.resume{
+    .container{
+        .row{
+            .col-12{
+                .mb-4{
+                    font-weight: 700;
+                    font-family:'Maven Pro', sans-serif;
+                    font-size: 2em;
+                }
+            }
+        }
+    }
+}
+
+
+
+//Skills scss
+
+.marker {
+    font-weight: 800;
+    font-family:'Maven Pro', sans-serif;
+    font-size: 3em;
+}
+
+.my-1 {
+    border-radius: 2em !important;
+}
+
+.skillsback {
+    background-color: rgb(200, 224, 255);;
+    border-radius: 1em;
+}
+
+.percent {
+    margin-left: 1em;
+}
+
+//hobby 
+
+.hobby {
+    .row{
+        .col-md-3{
+            .hobby-item{
+                height: 4em;
+                width: 100%;
+                background-color: rgb(189, 255, 211);
+                border-radius: 4em;
+
+                a:hover{
+                    color: black !important;
+                }
+            }
+
+            
+        }
+    }
+}
+
+.hobby-text {
+    .col-12{
+        a{
+            font-weight: 700;
+            font-family:'Maven Pro', sans-serif;
+            font-size: 2em;
+        }
+    }
+}
+
+//Ping Me
+
+.ping-me{
+    background-color: khaki;
+    border-radius: 1em;
+    height: auto;
+
+    .row{
+        .col-12{
+
+            form{
+
+                .my-2{
+                    input{
+                        border-radius: 2em;
+                    }
+                }
+
+                button{
+                    background-color: rgb(0, 0, 0) !important;
+                    color: rgb(255, 255, 255);
+                    font-weight: bold;
+                    border-radius: 2em;
+                }
+            }
+
+            h1{
+                font-weight: 700;
+                font-family:'Maven Pro', sans-serif;
+                font-size: 2em;
+            }   
+        }
+    }
+}
+
