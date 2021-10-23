@@ -3,9 +3,17 @@ body {
     font-family: 'Maven Pro', sans-serif;
     margin: 0 !important;
     overflow-x: hidden;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
    
 }
 html {
     overflow-x: hidden;
   }
 
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+  }
+  
+  
