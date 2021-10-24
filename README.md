@@ -1,8 +1,7 @@
 # My-Portfolio
 
-Welcome to my Portfolio.
-http://github.com - automatic!
-[GitHub](http://github.com)
+## Welcome to my Portfolio.<br/><br/>
+**See my Portfolio at** https://anshumanportfolio.000webhostapp.com <br/><br/>
 
 > Demonstration of Ping Me Functionality -
 
