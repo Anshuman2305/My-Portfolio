@@ -1,6 +1,8 @@
 # My-Portfolio
 
 Welcome to my Portfolio.
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 > Demonstration of Ping Me Functionality -
 
